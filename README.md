@@ -7,7 +7,7 @@ Here we will be assessing your skills in web development and more importantly yo
 
 Task 1 will focus on the frontend aspect of web development.
 
-Given this [Figma design](https://www.figma.com/file/xzrHVfGwkvjPdf2PvU61Je/GDSC-Web-Dev-Phase-1-Task?node-id=1%3A3), implement a ***responsive website** using technologies of your choice, there are **no restrictions on the frameworks.**
+Given this [Figma design](https://www.figma.com/file/xzrHVfGwkvjPdf2PvU61Je/GDSC-Web-Dev-Phase-1-Task?node-id=1%3A3), implement a **responsive website** using technologies of your choice, there are **no restrictions on the frameworks.**
 While submitting the code **make sure to add screenshots of your implementation at various viewport widths** (desktop - 1024px, tablet - 768px and mobile - 640px) in the README.
 
 ### Task 2 - Backend Development
