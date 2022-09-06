@@ -1,3 +1,4 @@
+![](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/Web-Dev-Recruitment-Task-22/blob/main/GDSC%20MPSTME%20logo.png)
 ## Welcome to the Web Development Recruitment Task.
 
 Here we will be assessing your skills in web development and more importantly your willingness to learn. **You may select and solve any 1 of the 2 tasks provided.** Each task focuses on a different aspect of web developemnt. Choose the task based on your strengths and the skills you want to highlight. Details for each task is provided below.
@@ -12,6 +13,7 @@ While submitting the code **make sure to add screenshots of your implementation 
 ### Task 2 - Backend Development
 
 Task 2 will focus on the backend aspect of web development.
+
 Given the following functional requirements for a library management API, **develop a REST API using appropriate endpoints.** The API should **preferably be developed in Node.js** but, any language is acceptable. You are free to use any database of your choice but **a database MUST be used.**
 
 **Functional Requirements:**
