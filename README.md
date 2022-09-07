@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/GDSC-NMIMS-MPSTME-Mumbai/Web-Dev-Recruitment-Task-22/main/GDSC%20MPSTME%20logo.png)
 ## Welcome to the Web Development Recruitment Task!
 
-Here we will be assessing your web development skills and, more importantly, your willingness to learn. **You may select and solve any 1 of the 2 tasks provided**. Each task focuses on a different aspect of web development. Choose the task based on your strengths and the skills you want to highlight. The details for each task are provided below.
+Here we will be assessing your web development skills and, more importantly, your willingness to learn. **You may select and solve any 1 of the 2 tasks provided**. Each task focuses on a different aspect of web development. Choose the task based on your strengths and the skills you want to highlight. The details for each task is provided below.
 
 ### Task 1 - Frontend Development
 
@@ -26,8 +26,8 @@ Given the following functional requirements for a library management API, **deve
 While submitting the code **make sure to add API client screenshots with a brief explanation** of the content of each screenshot in the README.
 
 ### Important Guidelines:
-- **Your solution to the selected task must be uploaded to a GitHub repository. You will submit the solution by submitting the link to the GitHub repository containing your solution.**
-- **You can find resources on how to create GitHub repositories and commit code here: [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/).**
+- **Your solution to the selected task must be uploaded to a GitHub repository. You will submit the solution by submitting the link to your GitHub repository containing your solution.**
+- **You can find resources on how to create GitHub repositories and commit code [Here](https://rogerdudler.github.io/git-guide/).**
 - **The README of the repo must contain the required information based on the chosen task.**
 - **Feel free to make reasonable assumptions and mention them, if any, in the README.**
 - **Try to implement as much as you can. You can submit your task even if you are not able to complete it.**
