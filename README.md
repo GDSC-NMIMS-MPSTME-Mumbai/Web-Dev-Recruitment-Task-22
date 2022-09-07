@@ -17,6 +17,7 @@ Task 2 will focus on the backend aspect of web development.
 Given the following functional requirements for a library management API, **develop a REST API with appropriate endpoints**. The API should **preferably be developed in Node.js** but, any language is acceptable. You are free to use any database of your choice but **a database MUST be used**.
 
 **Functional Requirements:**
+
 | Class   | Attributes | Operations |
 | -----   | ---------- | ---------- |
 | Books   | <ul><li>A unique ISBN number</li><li>Title</li><li>Author</li></ul> | <ul><li>get all books in the database</li><li>get books available for issue</li><li>get all issued books</li><li>get book details by ISBN number</li><li>browse books using book title</li><li>browse books using author name</li></ul> |
