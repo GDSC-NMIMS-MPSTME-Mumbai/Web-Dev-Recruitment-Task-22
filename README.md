@@ -20,7 +20,7 @@ Given the following functional requirements for a library management API, **deve
 
 | Class   | Attributes | Operations |
 | -----   | ---------- | ---------- |
-| Books   | <ul><li>A unique ISBN number</li><li>Title</li><li>Author</li></ul> | <ul><li>get all books in the database</li><li>get books available for issue</li><li>get all issued books</li><li>get book details by ISBN number</li><li>browse books using book title</li><li>browse books using author name</li></ul> |
+| Books   | <ul> <li>A unique ISBN number</li> <li>Title</li> <li>Author</li> </ul> | <ul><li>get all books in the database</li><li>get books available for issue</li><li>get all issued books</li><li>get book details by ISBN number</li><li>browse books using book title</li><li>browse books using author name</li></ul> |
 | Members | <ul><li>Unique ID</li><li>Name</li><li>Date joined</li><li>Contact number</li></ul> | <ul><li>get all members in the database</li><li>get mumber details by ID</li><li>get books currently issued by a member</li><li>get total books issued by a member</li><li>browse members using member name</li><li>browse members using contact number</li></ul> |
 | Manage  | - | <ul><li>issue book</li><li>return book</li></ul> |
 
